@@ -1,0 +1,57 @@
+.game{
+    width: 255px;
+    text-align: center;
+    font-family: system-ui;
+    color: aliceblue;
+    margin: auto;
+    font-weight: 50px;
+}
+
+.title{
+    background: blue;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span{
+    color: rgb(0, 0, 0);
+}
+
+.square{
+    width: 80px;
+    height: 80px;
+    background: blue;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+}
+
+.square:hover{
+    background: #d80d0d;
+    cursor: pointer;
+}
+
+body {
+    background: #433f3f;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.mohamed{
+    background: #1e05df;
+    margin-top: 260px;
+    margin-inline-end: 50px;
+    padding: 0;
+    text-align: center;
+    font-family: system-ui;
+    width: 50px;
+
+    
+}
+
+
+.mohamed:hover{
+    background: #ff0000;
+}
